@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// java program to print reverse diagonal of an array
+	// java program to print upper triangular element of an array:
         Scanner sc = new Scanner(System.in);
         int a = 0;
         int arr[][] = new int[3][3];
